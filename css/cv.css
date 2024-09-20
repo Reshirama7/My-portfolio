@@ -59,9 +59,9 @@ h3 {
 }
 
 #servicelist{
-   padding: 0;
-   position: relative;
-   overflow: auto;
+padding: 0;
+position: relative;
+overflow: auto;
 }
 
 .serviceitem{
